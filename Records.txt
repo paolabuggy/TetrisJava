@@ -1,0 +1,8 @@
+Nombre		Puntuación
+null		2
+null		8
+null		13
+null		9
+Alex		18
+null		1
+Paola		12
